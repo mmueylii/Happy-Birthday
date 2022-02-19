@@ -561,16 +561,16 @@ textarea {
   margin-bottom:36px;
 }
 
-@media (max-width:767px) {
+/* @media (max-width:767px) {
   .footer-dark .item.text1 {
     margin-bottom:0;
   }
-}
+} */
 
-.footer-dark .item.text1 p {
+/* .footer-dark .item.text1 p {
   opacity:0.6;
   margin-bottom:0;
-}
+} */
 
 .footer-dark .item.social {
   /* text-align:center; */
@@ -603,13 +603,13 @@ textarea {
   opacity:0.9;
 }
 
-.footer-dark .copyright {
+/* .footer-dark .copyright {
   text-align:center;
   padding-top:24px;
   opacity:0.3;
   font-size:13px;
   margin-bottom:0;
-}
+} */
 .footer .footer-project {
   float: left;
   font-size: 0;
